@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "142571118739",
+    "project_id": "smart-expense-tracker-9d011",
+    "storage_bucket": "smart-expense-tracker-9d011.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142571118739:android:a8d5aaff85c8c6090a2d66",
+        "android_client_info": {
+          "package_name": "com.example.coderooms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142571118739-oba1dfmvrbrv1quno35gofvifjermviu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkzk77JcUphaMBn_0vrQ0AHoMwmTuZCkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142571118739-oba1dfmvrbrv1quno35gofvifjermviu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142571118739:android:04b1c6a13665d42f0a2d66",
+        "android_client_info": {
+          "package_name": "com.example.smartexpensetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142571118739-jdpodnl5jv22r1hnbohfdkf347bmabu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartexpensetracker",
+            "certificate_hash": "38478c776e4e11e6351038862d8c17dff0650f73"
+          }
+        },
+        {
+          "client_id": "142571118739-oba1dfmvrbrv1quno35gofvifjermviu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkzk77JcUphaMBn_0vrQ0AHoMwmTuZCkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142571118739-oba1dfmvrbrv1quno35gofvifjermviu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
